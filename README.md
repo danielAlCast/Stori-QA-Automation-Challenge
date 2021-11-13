@@ -33,4 +33,4 @@ And now run you can run the script:
 `python demoBrowser.py `
 
 
-Once the the script end, you can find the prints from the Alert Message and the status of the Element Displayed Example
+Once the the script end, you can find the prints from the Alert Message and the status of the Element Displayed Example in the Terminal
