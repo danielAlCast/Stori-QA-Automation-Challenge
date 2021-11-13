@@ -21,9 +21,9 @@ An then, you need to install webdriver-manager to download the chromedriver:
 
 `pip install webdriver-manager`
 
-Once, you have already installed Selenium you can run the script,
+Once, you have already installed these resources, you have to go to the place where you save the project,
 
-First go to the PythonSelenium folder with: 
+Then go to the PythonSelenium folder with: 
 
 
 `cd pythonSelenium`
