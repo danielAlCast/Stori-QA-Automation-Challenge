@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
-#give
+# Download the ChromeDriver
 s = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=s)
 driver.maximize_window()
@@ -79,9 +79,9 @@ alert.accept()
 isShown = driver.find_element(By.XPATH, "//input[@id='displayed-text']").is_displayed()
 
 if isShown:
-    print("The Element is shown")
+    print("The Element Displayed Example is shown")
 else:
-    print("The element is hidden")
+    print("The Element Displayed Example is hidden")
 
 time.sleep(2)
 driver.close()
