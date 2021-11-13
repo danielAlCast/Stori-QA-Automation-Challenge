@@ -4,7 +4,7 @@ This is the repository for
 
 
 For running the project, first you have to install Selenium:
-\ pip install selenium \
+\\pip install selenium 
 
 In case, you have already installed Selenium but have a older version you can upgrade with:
 pip install -U selenium
