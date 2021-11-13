@@ -1,6 +1,6 @@
 # Stori-QA-Automation-Challenge
 
-This is the repository is created for the Stori QA Intern Automation Engineer Challenge! In this you can find the Requirement Traceability Matrix (RTM) and also the script to run the tests executions.
+This is the repository is created for the Stori QA Intern Automation Engineer Challenge! In this you can find the Requirement Traceability Matrix (RTM) and also the script to run the tests executions. This test executions were created with the use of Selenium and Python
 
 
 
