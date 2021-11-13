@@ -22,7 +22,7 @@ An then, you need to install webdriver-manager to download the chromedriver:
 
 Once, you have already installed Selenium you can run the script,
 
-First go to the PythoSelenium folder with: 
+First go to the PythonSelenium folder with: 
 
 
 `cd pythonSelenium`
@@ -32,3 +32,5 @@ And now run you can run the script:
 
 `python demoBrowser.py `
 
+
+Once the the script end, you can find the prints from the Alert Message and the status of the Element Displayed Example
