@@ -15,7 +15,7 @@ In case, you have already installed Selenium but have a older version you can up
 
 `pip install -U selenium`
 
-An then, you need to install webdriver-manager to dowloand the chromedriver:
+An then, you need to install webdriver-manager to download the chromedriver:
 
 
 `pip install webdriver-manager`
